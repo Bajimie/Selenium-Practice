@@ -63,7 +63,8 @@ public class demoAutomation {
         //click on logout
         driver.findElement(By.xpath("//span[contains(text(),'Log Out')]")).click();
     }
-
+lkjhtretyuiop\
+;lkjuhygtrffdghjkl';lkjh
 
     }
 
